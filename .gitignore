@@ -1,0 +1,25 @@
+# Fichiers binaires
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.so
+
+# Dossiers de build
+debug/
+release/
+
+# Fichiers générés par Qt
+*.moc
+*.qrc
+*.pro.user
+*.autosave
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Autres fichiers temporaires
+*.log
+*.tmp 
