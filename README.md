@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# stock-magazin
-=======
 # Stock Magazin
 
 Application de gestion de stock avec interface graphique (Qt/C++).
@@ -33,6 +30,3 @@ Application de gestion de stock avec interface graphique (Qt/C++).
 ## Exécution
 - Après compilation, lancez l'exécutable généré dans le dossier `release/` ou à la racine du projet.
 
-## Auteur
-- Votre nom ici 
->>>>>>> fa69917 (Initial commit)
